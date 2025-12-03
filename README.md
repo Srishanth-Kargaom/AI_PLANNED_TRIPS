@@ -1,12 +1,12 @@
 Ai Planned Trips
-Project Link: https://srishanth-kargaom.github.io/Srishanth-Kargaom-apt/
+Project Link: https://srishanth-kargaom.github.io/AI_PLANNED_TRIPS/
 It is an event-based optimized trip plan generator. It helps users find the most suitable trip plan from the generated options, saving time
 when traveling to unfamiliar cities or planning visits to various destinations. The platform is designed to accommodate all economic
 standards by offering customizable filters.
 Currently, only the front-end part made publicly available on GitHub.
 
 APT Railway (a subsidary of Ai Planned Trips)
-Project Link: https://srishanth-kargaom.github.io/Srishanth-Kargaom-apt/railway.html
+Project Link: https://srishanth-kargaom.github.io/APT_RAILWAY/
 This project is part of the larger initiative, APT (Ai Planned Trips). APT_Railway is one of the key features of the APT project, designed
 to optimise railway ticketing. Work on the APT project is progressing steadily toward its release.
 #some details about Guaranteed Seat Assistance:
